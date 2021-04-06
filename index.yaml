@@ -1,0 +1,23 @@
+apiVersion: v1
+entries:
+  opensips:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-04-06T09:43:17.53539725Z"
+    description: A Helm Chart for Kubernetes
+    digest: d11a7e1a71781ee2fb0627d825d74f2443e83da4fd16b8999dca1c6057d4f5d2
+    name: opensips
+    urls:
+    - https://chetangautamm.github.io/helmcharts/opensips-0.1.0.tgz
+    version: 0.1.0
+  sipp:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-04-06T09:43:17.535664162Z"
+    description: A Helm Chart for Kubernetes
+    digest: bd6b1d7d79653831fe1fcf18b7a41802a0257db6632d9724f3b70c90f9a521f4
+    name: sipp
+    urls:
+    - https://chetangautamm.github.io/helmcharts/sipp-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-04-06T09:43:17.534941931Z"
